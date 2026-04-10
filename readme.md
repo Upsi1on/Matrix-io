@@ -14,10 +14,10 @@
       <th><strong>工具</strong></th>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Clash.png" alt="Clash" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Egern.png" alt="Egern" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Loon.png" alt="Loon" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/QuantumultX.png" alt="QuantumultX" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Clash.png" alt="Clash" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Egern.png" alt="Egern" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Loon.png" alt="Loon" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/QuantumultX.png" alt="QuantumultX" align="center" height="75" width="75"></td>
     </tr>
     <tr>
       <td align="center"><a href="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Clash/Matrix.yaml"><strong>配置</strong></a></td>
@@ -32,10 +32,10 @@
       <th><strong>工具</strong></th>
     </tr>
     <tr>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Shadowrocket.png" alt="Shadowrocket" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Sing-box.png" alt="Sing-box" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Stash.png" alt="Stash" align="center" height="75" width="75"></td>
-      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Scripts/master/Gallery/Color/Surge.png" alt="Surge" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Shadowrocket.png" alt="Shadowrocket" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Sing-box.png" alt="Sing-box" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Stash.png" alt="Stash" align="center" height="75" width="75"></td>
+      <td align="center"><img src="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Gallery/Color/Surge.png" alt="Surge" align="center" height="75" width="75"></td>
     </tr>
     <tr>
       <td align="center"><a href="https://raw.githubusercontent.com/Centralmatrix3/Matrix-io/master/Shadowrocket/Matrix.conf"><strong>配置</strong></a></td>

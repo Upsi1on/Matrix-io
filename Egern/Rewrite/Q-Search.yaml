@@ -1,5 +1,5 @@
-name: 快捷搜索
-description: 快捷搜索(命令+空格+关键词)
+name: 快速搜索
+description: 快速搜索(命令+空格+关键词)
 author: ddgksf2013
 
 url_rewrites:
@@ -309,6 +309,9 @@ url_rewrites:
 
   # [指令:yh 内容:xxx (油猴搜索)]
   - match: ^https:\/\/duckduckgo.com\/\?q=yh\+([^&]+).+
+    location: https://greasyfork.org/zh-CN/scripts?q=$1
+    status_code: 302
+  - match: ^https:\/\/duckduckgo.com\/\?q=([^+]+)\+yh.+
     location: https://greasyfork.org/zh-CN/scripts?q=$1
     status_code: 302
 
