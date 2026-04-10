@@ -1,5 +1,5 @@
 # 规则名称: ChinaMax
-# 规则统计: 130829
+# 规则统计: 130838
 
 HOST,1-fss24-s0.streamhoster.com,ChinaMax
 HOST,14033.live.streamtheworld.com,ChinaMax
@@ -87,6 +87,7 @@ HOST,fash1043.cloudycdn.services,ChinaMax
 HOST,fcs.dell.com,ChinaMax
 HOST,file.hhtv.cc,ChinaMax
 HOST,file.mb.leshantv.net,ChinaMax
+HOST,firebase-settings.crashlytics.com,ChinaMax
 HOST,flv.drs.tv.yatv.tv,ChinaMax
 HOST,fm901.cityfm.tw,ChinaMax
 HOST,fm929.cityfm.tw,ChinaMax
@@ -277,6 +278,7 @@ HOST,tv.drs.hhtv.cc,ChinaMax
 HOST,tv.nknews.org,ChinaMax
 HOST,tx.lilyemby.com,ChinaMax
 HOST,uni6rtmp.tulix.tv,ChinaMax
+HOST,update.crashlytics.com,ChinaMax
 HOST,uplaypc-s-ubisoft.cdn.ubi.com,ChinaMax
 HOST,v1.one-tv.com,ChinaMax
 HOST,vip888.kuyun99.com,ChinaMax
@@ -120894,7 +120896,10 @@ IP-CIDR,104.212.68.151/32,ChinaMax
 IP-CIDR,104.212.68.152/32,ChinaMax
 IP-CIDR,104.212.68.57/32,ChinaMax
 IP-CIDR,104.212.68.58/32,ChinaMax
+IP-CIDR,104.219.211.0/24,ChinaMax
 IP-CIDR,104.227.65.96/28,ChinaMax
+IP-CIDR,104.233.144.0/21,ChinaMax
+IP-CIDR,104.233.159.0/24,ChinaMax
 IP-CIDR,104.237.80.0/21,ChinaMax
 IP-CIDR,104.27.168.0/24,ChinaMax
 IP-CIDR,104.28.101.0/27,ChinaMax
@@ -121214,6 +121219,9 @@ IP-CIDR,106.56.0.0/13,ChinaMax
 IP-CIDR,106.74.0.0/15,ChinaMax
 IP-CIDR,106.8.0.0/15,ChinaMax
 IP-CIDR,106.80.0.0/12,ChinaMax
+IP-CIDR,107.148.150.0/23,ChinaMax
+IP-CIDR,107.148.84.0/23,ChinaMax
+IP-CIDR,107.149.198.0/23,ChinaMax
 IP-CIDR,107.150.125.199/32,ChinaMax
 IP-CIDR,107.151.212.0/24,ChinaMax
 IP-CIDR,107.153.91.0/24,ChinaMax
@@ -122960,6 +122968,7 @@ IP-CIDR,194.138.136.0/24,ChinaMax
 IP-CIDR,194.138.202.0/23,ChinaMax
 IP-CIDR,194.138.245.0/24,ChinaMax
 IP-CIDR,194.156.99.0/24,ChinaMax
+IP-CIDR,194.231.140.0/24,ChinaMax
 IP-CIDR,194.45.55.8/30,ChinaMax
 IP-CIDR,194.50.111.48/32,ChinaMax
 IP-CIDR,194.50.99.48/32,ChinaMax
@@ -124597,7 +124606,6 @@ IP-CIDR,218.213.92.0/24,ChinaMax
 IP-CIDR,218.240.0.0/13,ChinaMax
 IP-CIDR,218.249.0.0/16,ChinaMax
 IP-CIDR,218.252.0.0/17,ChinaMax
-IP-CIDR,218.252.128.0/19,ChinaMax
 IP-CIDR,218.253.0.0/18,ChinaMax
 IP-CIDR,218.56.0.0/13,ChinaMax
 IP-CIDR,218.64.0.0/11,ChinaMax
@@ -125733,6 +125741,7 @@ IP-CIDR,38.103.64.26/32,ChinaMax
 IP-CIDR,38.105.24.0/24,ChinaMax
 IP-CIDR,38.105.26.0/23,ChinaMax
 IP-CIDR,38.105.28.0/22,ChinaMax
+IP-CIDR,38.12.3.0/24,ChinaMax
 IP-CIDR,38.134.56.0/24,ChinaMax
 IP-CIDR,38.134.58.0/23,ChinaMax
 IP-CIDR,38.181.0.0/19,ChinaMax
