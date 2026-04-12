@@ -1,5 +1,5 @@
 # 规则名称: GlobalMax
-# 规则统计: 33460
+# 规则统计: 33510
 
 HOST,1password.drift.click,GlobalMax
 HOST,adobeereg.com,GlobalMax
@@ -61,14 +61,19 @@ HOST,medone-education.thieme.com,GlobalMax
 HOST,muse.jhu.edu,GlobalMax
 HOST,nationalaustraliaban.tt.omtrdc.net,GlobalMax
 HOST,ntp-c.colorado.edu,GlobalMax
+HOST,ntp.time.nl,GlobalMax
 HOST,ntp0.ntp-servers.net,GlobalMax
 HOST,ntp1.ntp-servers.net,GlobalMax
+HOST,ntp1.time.nl,GlobalMax
 HOST,ntp2.ntp-servers.net,GlobalMax
+HOST,ntp2.time.nl,GlobalMax
 HOST,ntp3.ntp-servers.net,GlobalMax
 HOST,ntp4.ntp-servers.net,GlobalMax
 HOST,ntp5.ntp-servers.net,GlobalMax
 HOST,ntp6.ntp-servers.net,GlobalMax
 HOST,ntp7.ntp-servers.net,GlobalMax
+HOST,ntppool1.time.nl,GlobalMax
+HOST,ntppool2.time.nl,GlobalMax
 HOST,nvidia.tt.omtrdc.net,GlobalMax
 HOST,ood.opsource.net,GlobalMax
 HOST,practivate.adobe,GlobalMax
@@ -2163,10 +2168,10 @@ HOST-SUFFIX,anistreaming.xyz,GlobalMax
 HOST-SUFFIX,ankarazirvesi2018.com,GlobalMax
 HOST-SUFFIX,anm.co.uk,GlobalMax
 HOST-SUFFIX,annamilk.com,GlobalMax
-HOST-SUFFIX,annas-archive.in,GlobalMax
-HOST-SUFFIX,annas-archive.li,GlobalMax
+HOST-SUFFIX,annas-archive.gd,GlobalMax
+HOST-SUFFIX,annas-archive.gl,GlobalMax
 HOST-SUFFIX,annas-archive.org,GlobalMax
-HOST-SUFFIX,annas-archive.pm,GlobalMax
+HOST-SUFFIX,annas-archive.pk,GlobalMax
 HOST-SUFFIX,annas-archive.se,GlobalMax
 HOST-SUFFIX,annatam.com,GlobalMax
 HOST-SUFFIX,anniesland-fe.ac.uk,GlobalMax
@@ -5762,6 +5767,7 @@ HOST-SUFFIX,caacentre.ac.uk,GlobalMax
 HOST-SUFFIX,caadoc.ac.uk,GlobalMax
 HOST-SUFFIX,caagcc.ac.uk,GlobalMax
 HOST-SUFFIX,caban.ac.uk,GlobalMax
+HOST-SUFFIX,cabconnect.org,GlobalMax
 HOST-SUFFIX,cableav.tv,GlobalMax
 HOST-SUFFIX,cableav.xyz,GlobalMax
 HOST-SUFFIX,cablegatesearch.net,GlobalMax
@@ -5922,6 +5928,7 @@ HOST-SUFFIX,candycumcity.com,GlobalMax
 HOST-SUFFIX,candypleasure.com,GlobalMax
 HOST-SUFFIX,cannington.ac.uk,GlobalMax
 HOST-SUFFIX,cannock.ac.uk,GlobalMax
+HOST-SUFFIX,canny.io,GlobalMax
 HOST-SUFFIX,canolfansgiliaucadarn.ac.uk,GlobalMax
 HOST-SUFFIX,canolfanyramgylcheddolcymru.ac.uk,GlobalMax
 HOST-SUFFIX,canon-cee.com,GlobalMax
@@ -9019,6 +9026,7 @@ HOST-SUFFIX,drgan.net,GlobalMax
 HOST-SUFFIX,dri.ac.uk,GlobalMax
 HOST-SUFFIX,dribbble.com,GlobalMax
 HOST-SUFFIX,drindod.ac.uk,GlobalMax
+HOST-SUFFIX,driveawaytaxi.org,GlobalMax
 HOST-SUFFIX,driverxxx.com,GlobalMax
 HOST-SUFFIX,drivevideo.xyz,GlobalMax
 HOST-SUFFIX,driving.co.uk,GlobalMax
@@ -9982,6 +9990,9 @@ HOST-SUFFIX,entnt.com,GlobalMax
 HOST-SUFFIX,entrust.com,GlobalMax
 HOST-SUFFIX,entrust.net,GlobalMax
 HOST-SUFFIX,entrustdatacard.com,GlobalMax
+HOST-SUFFIX,envato-static.com,GlobalMax
+HOST-SUFFIX,envato.com,GlobalMax
+HOST-SUFFIX,envatousercontent.com,GlobalMax
 HOST-SUFFIX,enveast.ac.uk,GlobalMax
 HOST-SUFFIX,environment-health.ac.uk,GlobalMax
 HOST-SUFFIX,eotarchive.org,GlobalMax
@@ -12708,6 +12719,7 @@ HOST-SUFFIX,gofundme.com,GlobalMax
 HOST-SUFFIX,gog-statics.com,GlobalMax
 HOST-SUFFIX,gog.com,GlobalMax
 HOST-SUFFIX,gogeo.ac.uk,GlobalMax
+HOST-SUFFIX,gogettaxi.org,GlobalMax
 HOST-SUFFIX,gogle.com,GlobalMax
 HOST-SUFFIX,gogo-load.com,GlobalMax
 HOST-SUFFIX,gogoanime.vc,GlobalMax
@@ -13099,6 +13111,7 @@ HOST-SUFFIX,gotraffic.net,GlobalMax
 HOST-SUFFIX,gotrusted.com,GlobalMax
 HOST-SUFFIX,gotw.ca,GlobalMax
 HOST-SUFFIX,gouhuo.qq.com,GlobalMax
+HOST-SUFFIX,goup.ai,GlobalMax
 HOST-SUFFIX,gouri.xyz,GlobalMax
 HOST-SUFFIX,gov.ir,GlobalMax
 HOST-SUFFIX,gov.taipei,GlobalMax
@@ -13519,6 +13532,7 @@ HOST-SUFFIX,hayday.com,GlobalMax
 HOST-SUFFIX,haydaygame.com,GlobalMax
 HOST-SUFFIX,hayle.ac.uk,GlobalMax
 HOST-SUFFIX,haywardsheath.ac.uk,GlobalMax
+HOST-SUFFIX,hayya.ae,GlobalMax
 HOST-SUFFIX,hbabit.com,GlobalMax
 HOST-SUFFIX,hbfile.net,GlobalMax
 HOST-SUFFIX,hbg.com,GlobalMax
@@ -16556,6 +16570,21 @@ HOST-SUFFIX,jiuse823.com,GlobalMax
 HOST-SUFFIX,jiuse904.com,GlobalMax
 HOST-SUFFIX,jiuse905.com,GlobalMax
 HOST-SUFFIX,jiuzhouyihuo.com,GlobalMax
+HOST-SUFFIX,jivo.chat,GlobalMax
+HOST-SUFFIX,jivo.ru,GlobalMax
+HOST-SUFFIX,jivochat.co.in,GlobalMax
+HOST-SUFFIX,jivochat.co.za,GlobalMax
+HOST-SUFFIX,jivochat.com,GlobalMax
+HOST-SUFFIX,jivochat.com.br,GlobalMax
+HOST-SUFFIX,jivochat.com.co,GlobalMax
+HOST-SUFFIX,jivochat.com.pe,GlobalMax
+HOST-SUFFIX,jivochat.com.tr,GlobalMax
+HOST-SUFFIX,jivochat.de,GlobalMax
+HOST-SUFFIX,jivochat.es,GlobalMax
+HOST-SUFFIX,jivochat.ng,GlobalMax
+HOST-SUFFIX,jivochat.ru,GlobalMax
+HOST-SUFFIX,jivosite.com,GlobalMax
+HOST-SUFFIX,jivosite.ru,GlobalMax
 HOST-SUFFIX,jiyou520.com,GlobalMax
 HOST-SUFFIX,jiyu-kobo.co.jp,GlobalMax
 HOST-SUFFIX,jizzboom.com,GlobalMax
@@ -20085,6 +20114,7 @@ HOST-SUFFIX,my-enema.com,GlobalMax
 HOST-SUFFIX,my-formosa.com,GlobalMax
 HOST-SUFFIX,my-kualalumpur-1.myhuaweicloud.com,GlobalMax
 HOST-SUFFIX,my-magazine.me,GlobalMax
+HOST-SUFFIX,my-manager-account.com,GlobalMax
 HOST-SUFFIX,my-private-network.co.uk,GlobalMax
 HOST-SUFFIX,my-proxy.com,GlobalMax
 HOST-SUFFIX,my.weibo.com,GlobalMax
@@ -27539,6 +27569,7 @@ HOST-SUFFIX,supjav.com,GlobalMax
 HOST-SUFFIX,suppig.net,GlobalMax
 HOST-SUFFIX,supply-chain.ac.uk,GlobalMax
 HOST-SUFFIX,supplybestjerseys.com,GlobalMax
+HOST-SUFFIX,support-uber.com,GlobalMax
 HOST-SUFFIX,supportfacebook.com,GlobalMax
 HOST-SUFFIX,supremacy.com,GlobalMax
 HOST-SUFFIX,supremacy.net,GlobalMax
@@ -27887,7 +27918,10 @@ HOST-SUFFIX,taweet.com,GlobalMax
 HOST-SUFFIX,tawny-peaks.com,GlobalMax
 HOST-SUFFIX,taxel.media,GlobalMax
 HOST-SUFFIX,taxi69.com,GlobalMax
+HOST-SUFFIX,taxiaid.org,GlobalMax
 HOST-SUFFIX,taxidrivermovie.com,GlobalMax
+HOST-SUFFIX,taxiguru.org,GlobalMax
+HOST-SUFFIX,taxitax.org,GlobalMax
 HOST-SUFFIX,tay.ac.uk,GlobalMax
 HOST-SUFFIX,taylorandfrancis.com,GlobalMax
 HOST-SUFFIX,taylorfrancis.com,GlobalMax
@@ -28277,6 +28311,7 @@ HOST-SUFFIX,theman.in,GlobalMax
 HOST-SUFFIX,themanchestercollege.ac.uk,GlobalMax
 HOST-SUFFIX,themarvelexperiencetour.com,GlobalMax
 HOST-SUFFIX,themathsfactor.com,GlobalMax
+HOST-SUFFIX,themeforest.net,GlobalMax
 HOST-SUFFIX,themercury.com.au,GlobalMax
 HOST-SUFFIX,themessengeradelaide.com.au,GlobalMax
 HOST-SUFFIX,themilfmovies.com,GlobalMax
@@ -29865,6 +29900,7 @@ HOST-SUFFIX,uwtsd.ac.uk,GlobalMax
 HOST-SUFFIX,uwtsdlondon.ac.uk,GlobalMax
 HOST-SUFFIX,uxbridge.ac.uk,GlobalMax
 HOST-SUFFIX,uxbridgecollege.ac.uk,GlobalMax
+HOST-SUFFIX,uxthemes.com,GlobalMax
 HOST-SUFFIX,uxxxporn.com,GlobalMax
 HOST-SUFFIX,uyghur-j.org,GlobalMax
 HOST-SUFFIX,uyghur.co.uk,GlobalMax
@@ -32560,11 +32596,25 @@ HOST-SUFFIX,yandex.uz,GlobalMax
 HOST-SUFFIX,yandexadexchange.net,GlobalMax
 HOST-SUFFIX,yandexcloud.net,GlobalMax
 HOST-SUFFIX,yandexcom.net,GlobalMax
+HOST-SUFFIX,yandexgo.com,GlobalMax
 HOST-SUFFIX,yandexlyceum.ru,GlobalMax
 HOST-SUFFIX,yandexwebcache.net,GlobalMax
 HOST-SUFFIX,yandexwebcache.org,GlobalMax
 HOST-SUFFIX,yanghengjun.com,GlobalMax
 HOST-SUFFIX,yangjianli.com,GlobalMax
+HOST-SUFFIX,yango-b2b.com,GlobalMax
+HOST-SUFFIX,yango-team.com,GlobalMax
+HOST-SUFFIX,yango-tech.com,GlobalMax
+HOST-SUFFIX,yango.africa,GlobalMax
+HOST-SUFFIX,yango.ao,GlobalMax
+HOST-SUFFIX,yango.bh,GlobalMax
+HOST-SUFFIX,yango.co.il,GlobalMax
+HOST-SUFFIX,yango.com,GlobalMax
+HOST-SUFFIX,yango.fi,GlobalMax
+HOST-SUFFIX,yango.qa,GlobalMax
+HOST-SUFFIX,yango.taxi,GlobalMax
+HOST-SUFFIX,yango.tech,GlobalMax
+HOST-SUFFIX,yangofellowship.com,GlobalMax
 HOST-SUFFIX,yangzhi.org,GlobalMax
 HOST-SUFFIX,yaohubaba.com,GlobalMax
 HOST-SUFFIX,yaoimangaonline.com,GlobalMax
